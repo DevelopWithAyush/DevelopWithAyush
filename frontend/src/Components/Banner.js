@@ -1,6 +1,7 @@
 import React from 'react'
 import Connectbtn from './Connectbtn'
 import Typed from 'typed.js';
+import rightimg from "../assets/img/Connected world-bro.png"
 
 function Banner() {
     const el = React.useRef(null);
@@ -32,7 +33,7 @@ function Banner() {
    <Connectbtn data-aos="fade-left" data-aos-duration="1000"/>
     </div>
     <div className="right-banner">
-        <img src="" alt="" />
+        <img src={rightimg} alt="" />
     </div>
     
   </section>
