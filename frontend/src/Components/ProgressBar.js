@@ -2,10 +2,10 @@ import React from 'react'
 import { Circle } from 'rc-progress';
 
 function ProgressBar(props) {
-  const {percent,skillname} = props
+  const {percent,skillname ,duration} = props
   
   return (
-    <div className='progressbar'>
+    <div className='progressbar' data-aos="flip-down" data-aos-duration={duration}>
       <Circle
        percent={percent}
        strokeColor="rgba(153,45,117,1)"

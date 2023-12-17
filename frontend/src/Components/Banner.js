@@ -24,12 +24,12 @@ function Banner() {
 
 
   return (
-  <section className='banner'>
+  <section className='banner' id='home'>
     <div className="left-banner">
-        <p>hey there</p>
-        <h2>i am a <span ref={el}>wordpress developer</span></h2>
-        <p>Hello, I am <span>Ayush Dubey </span>, currently pursuing my B.Tech at MNIT Jaipur. I have been actively involved in website development for the past year.</p>
-   <Connectbtn/>
+        <p data-aos="fade-right" data-aos-duration="250">hey there</p>
+        <h2 data-aos="fade-right" data-aos-duration="500">i am a <span ref={el}>wordpress developer</span></h2>
+        <p data-aos="fade-right" data-aos-duration="750">Hello, I am <span>Ayush Dubey </span>, currently pursuing my B.Tech at MNIT Jaipur. I have been actively involved in website development for the past year.</p>
+   <Connectbtn data-aos="fade-left" data-aos-duration="1000"/>
     </div>
     <div className="right-banner">
         <img src="" alt="" />
