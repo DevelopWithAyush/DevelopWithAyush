@@ -17,7 +17,7 @@
 ```ts
 const ayush = {
   role: "Full Stack Web Developer",
-  experience: "4+ years",
+  experience: "3+ years",
   specialty: ["Next.js", "Node.js", "Express", "MongoDB", "TypeScript", "WebSockets"],
   traits: ["Fast learner", "Problem solver", "Team player", "Self-driven"],
   loves: ["Tech", "Startups", "Automation", "Clean Code", "Dark UI"],
