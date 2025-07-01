@@ -74,9 +74,9 @@ I'm a **self-taught** developer who started with curiosity and now builds **scal
 ## 📫 How to Reach Me
 
 - 🔗 Portfolio: [https://axturo.com](https://axturo.com)
-- 📧 Email: `ayushdubeydev@gmail.com`
-- 💼 LinkedIn: [@ayushdubey](https://www.linkedin.com/in/ayushdubey)
-- 🐦 Twitter: [@devwithayush](https://twitter.com/devwithayush)
+- 📧 Email: `founder@axturo.com`
+- 💼 LinkedIn: [@developwithayush](www.linkedin.com/in/developwithayush)
+- 🐦 Twitter: [@developvthayush]([https://twitter.com/devwithayus](https://x.com/developvthayush)
 
 ---
 
