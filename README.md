@@ -46,15 +46,6 @@ I'm a self-taught full stack dev with a passion for crafting **scalable**, **min
 ## 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DevelopWithAyush&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevelopWithAyush&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DevelopWithAyush&theme=radical&row=1&column=7" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevelopWithAyush&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
   <br />
   <a href="https://github.com/DevelopWithAyush">🔍 View full activity on my GitHub profile</a>
