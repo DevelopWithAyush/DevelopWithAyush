@@ -1,100 +1,96 @@
 <h1 align="center">Hi 👋, I'm Ayush Dubey</h1>
-<h3 align="center">A Full Stack Web Developer, Tech Explorer & Fast Learner 🚀</h3>
+<h3 align="center">🚀 Full Stack Web Developer | 🛠️ SaaS Builder | 🔁 Automation Enthusiast</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E" />
-  <img src="https://img.shields.io/badge/Code-TypeScript-blue?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=nextdotjs" />
-  <img src="https://img.shields.io/badge/Backend-Node.js-brightgreen?style=flat&logo=node.js" />
-  <img src="https://img.shields.io/badge/Database-MongoDB-green?style=flat&logo=mongodb" />
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazonaws" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+cool+products+with+Next.js+%26+Node.js;Love+clean+code+and+dark+UIs;Learning+AI+and+Web3...&center=true&width=600&height=45&color=58a6ff&vCenter=true&size=22" />
 </p>
 
 ---
 
-## 🧠 Who Am I?
+## 👨‍💻 About Me
 
 ```ts
 const ayush = {
+  name: "Ayush Dubey",
   role: "Full Stack Web Developer",
-  experience: "3+ years",
-  specialty: ["Next.js", "Node.js", "Express", "MongoDB", "TypeScript", "WebSockets"],
-  traits: ["Fast learner", "Problem solver", "Team player", "Self-driven"],
-  loves: ["Tech", "Startups", "Automation", "Clean Code", "Dark UI"],
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  tools: ["Next.js", "Node.js", "MongoDB", "WebSockets", "Tailwind CSS", "PM2", "AWS"],
+  learning: ["LangChain", "ElevenLabs", "Web3"],
+  hobbies: ["Debugging life", "UI polishing", "Startup building"],
 };
 ```
 
-I'm a **self-taught** developer who started with curiosity and now builds **scalable**, **production-ready** full stack applications. I love exploring modern tools and solving real-world problems with efficient code and clean architecture.
+I'm a self-taught full stack dev with a passion for crafting **scalable**, **minimal**, and **production-grade** applications. I thrive in fast-paced environments and love turning raw ideas into full-blown products.
 
 ---
 
-## 🛠️ Tech Stack I Work With
+## 🚀 Tech Stack
 
-| 💻 Frontend        | 🔧 Backend         | 🗄️ Database     | 🚀 DevOps & Tools     |
-|-------------------|--------------------|----------------|------------------------|
-| React, Next.js    | Node.js, Express   | MongoDB        | AWS EC2, NGINX, PM2    |
-| Tailwind CSS      | REST APIs, JWT     | Mongoose       | Git, GitHub, Docker    |
-| TypeScript        | WebSockets         | Redis (soon)   | Postman, Figma         |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,express,typescript,javascript,mongodb,tailwind,aws,figma,vercel,git,github&perline=6" />
+</p>
 
 ---
 
-## 📂 Projects That Define Me
+## 🔥 Highlights & Projects
 
-### 🔊 **AI Voice Agent** *(in progress)*
-> Building a smart AI agent that talks and closes sales for businesses using ElevenLabs + LangChain + Pinecone.
-
-### 🧩 **Accessibility Widget (SaaS)**
-> A JavaScript widget to add accessibility features like contrast toggle, screen reader, text size control, and more to any website.
-
-### 💬 **Real-time Chat Systems**
-> Custom chat apps using WebSockets, authentication flows with 2FA, and persistent MongoDB sessions.
-
-### 🧠 **Telegram Bot Integrations**
-> Built tools to authenticate users using GramJS, fetch messages, and integrate bots for automation workflows.
+| Project                         | Description                                                                 |
+|----------------------------------|-----------------------------------------------------------------------------|
+| 🧠 **AI Voice Agent**            | Sales AI using LangChain + ElevenLabs + Pinecone                           |
+| 🧩 **Accessibility Widget SaaS** | Embeddable JS widget with 12+ accessibility features                        |
+| 💬 **Realtime Chat System**      | WebSocket-based secure chat with JWT & 2FA                                 |
+| 🤖 **Telegram Automation**       | GramJS-powered authentication & message automation                         |
 
 ---
 
-## 📈 GitHub Stats & Contributions
+## 📈 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DevelopWithAyush&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevelopWithAyush&theme=radical" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DevelopWithAyush&theme=radical&row=1&column=7" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevelopWithAyush&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
+  <br />
+  <a href="https://github.com/DevelopWithAyush">🔍 View full activity on my GitHub profile</a>
 </p>
 
+---
 
+## 🎯 Currently Exploring
 
-
+- 🧠 Building AI agents for sales automation
+- 💻 Web3 smart contract integrations
+- ⚙️ Micro SaaS products & Chrome extensions
 
 ---
 
-## 📚 Currently Exploring
+## 📫 Connect With Me
 
-- 🤖 Building agents with **LangChain**, **Vector DBs**, and **Voice APIs**
-- 🧠 Learning **Web3** and **Smart Contracts**
-- 🔗 Creating embeddable SaaS tools and platform widgets
-
----
-
-## 📫 How to Reach Me
-
-- 🔗 Portfolio: [https://axturo.com](https://axturo.com)
-- 📧 Email: `founder@axturo.com`
-- 💼 LinkedIn: [@developwithayush](https://www.linkedin.com/in/developwithayush)
-- 🐦 Twitter: [@developvthayush](https://x.com/developvthayush)
+<p align="center">
+  <a href="mailto:founder@axturo.com"><img src="https://img.shields.io/badge/Email-founder@axturo.com-informational?style=for-the-badge&logo=gmail&logoColor=white&color=red" /></a>
+  <a href="https://linkedin.com/in/developwithayush"><img src="https://img.shields.io/badge/LinkedIn-AyushDubey-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://x.com/developvthayush"><img src="https://img.shields.io/badge/Twitter-@developvthayush-blue?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://axturo.com"><img src="https://img.shields.io/badge/Portfolio-Axturo.com-8a2be2?style=for-the-badge&logo=firefox-browser" /></a>
+</p>
 
 ---
 
-## 🧘 Fun Facts
+## 💡 Fun Fact
 
-- 🧠 I learn and build things faster than I forget my passwords.
-- 🎯 I love making clean, minimal UIs — especially in dark mode.
-- 🧩 Hobbies: Debugging code and debugging life.
-
----
-
-## 🧑‍💻 Let’s Build Together
-
-> *I’m open to freelance gigs, collaborations, and side projects. If you have an idea — let's make it real.*
+> I learn & build faster than I forget my passwords.  
+> I prefer solving real problems over collecting fancy titles.
 
 ---
+
+## 🧑‍💻 Let’s Build Something Cool Together
+
+If you have an idea, startup, or crazy prototype —  
+**DM me. Email me. Let’s turn it into a product.**
 
 > _“Stay curious. Keep building. Code your way through the chaos.”_
