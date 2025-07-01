@@ -57,8 +57,10 @@ I'm a **self-taught** developer who started with curiosity and now builds **scal
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <a href="https://github.com/DevelopWithAyush">🔍 View detailed contributions on my GitHub profile</a>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevelopWithAyush&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
 </p>
+
+
 
 
 
