@@ -57,16 +57,16 @@ I'm a **self-taught** developer who started with curiosity and now builds **scal
 ## 📈 GitHub Stats & Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushdubeydev&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushdubeydev&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevelopWithAyush&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevelopWithAyush&theme=radical" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ayushdubeydev&theme=radical&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevelopWithAyush&theme=radical&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayushdubeydev&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevelopWithAyush&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
 </p>
 
 ---
