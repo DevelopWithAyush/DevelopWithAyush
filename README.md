@@ -43,16 +43,6 @@ I'm a self-taught full stack dev with a passion for crafting **scalable**, **min
 
 ---
 
-## 📈 GitHub Stats & Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevelopWithAyush&bg_color=0d1117&color=58a6ff&line=3fb950&point=ffffff&area=true&hide_border=true" />
-  <br />
-  <a href="https://github.com/DevelopWithAyush">🔍 View full activity on my GitHub profile</a>
-</p>
-
----
-
 ## 🎯 Currently Exploring
 
 - 🧠 Building AI agents for sales automation
