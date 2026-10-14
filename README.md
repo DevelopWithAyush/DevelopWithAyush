@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayush Dubey</h1>
+<h1 align="center">Hi 👋, I'm Ayush</h1>
 <h3 align="center">🚀 Full Stack Web Developer | 🛠️ SaaS Builder | 🔁 Automation Enthusiast</h3>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ```ts
 const ayush = {
-  name: "Ayush Dubey",
+  name: "Ayush",
   role: "Full Stack Web Developer",
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
   tools: ["Next.js", "Node.js", "MongoDB", "WebSockets", "Tailwind CSS", "PM2", "AWS"],
@@ -34,18 +34,19 @@ I'm a self-taught full stack dev with a passion for crafting **scalable**, **min
 
 ## 🔥 Highlights & Projects
 
-| Project                         | Description                                                                 |
-|----------------------------------|-----------------------------------------------------------------------------|
-| 🧠 **AI Voice Agent**            | Sales AI using LangChain + ElevenLabs + Pinecone                           |
-| 🧩 **Accessibility Widget SaaS** | Embeddable JS widget with 12+ accessibility features                        |
-| 💬 **Realtime Chat System**      | WebSocket-based secure chat with JWT & 2FA                                 |
-| 🤖 **Telegram Automation**       | GramJS-powered authentication & message automation                         |
+| Project                          | Description                                                                       |
+|----------------------------------|-------------------------------------------------------------------------------|
+| 🧠 **AI Voice Agent**            | Sales AI using LangChain + ElevenLabs + Pinecone                              |
+| 🧩 **Accessibility Widget SaaS** | Embeddable JS widget with 12+ accessibility features                         |
+| 💬 **Realtime Chat System**      | WebSocket-based secure chat with JWT & 2FA                                     |
+| 🤖 **Telegram Automation**       | GramJS-powered authentication & message automation                           |
 
 ---
 
 ## 🎯 Currently Exploring
 
-- 🧠 Building AI agents for sales automation
+- 🧠 **Building AI agents for sales automation
+
 - 💻 Web3 smart contract integrations
 - ⚙️ Micro SaaS products & Chrome extensions
 
@@ -69,9 +70,9 @@ I'm a self-taught full stack dev with a passion for crafting **scalable**, **min
 
 ---
 
-## 🧑‍💻 Let’s Build Something Cool Together
+## 🧑‍💻 Let's Build Something Cool Together
 
 If you have an idea, startup, or crazy prototype —  
-**DM me. Email me. Let’s turn it into a product.**
+**DM me. Email me. Let's turn it into a product.**
 
-> _“Stay curious. Keep building. Code your way through the chaos.”_
+> _"Stay curious. Keep building. Code your way through the chaos."_
